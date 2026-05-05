@@ -1,0 +1,12 @@
+a) El simbolo - aparece delante de los atributos y el + delante de los metodos. Que significa cada
+uno?
+b) Que tipo de dato es disponible y que dos valores puede tener?
+c) Para que sirve el metodo ToString() en una clase?
+
+Respuestas
+
+a) El símbolo - delante de los atributos significa que estos son privados (solo accesibles dentro de la misma clase), mientras que el símbolo + delante de los métodos significa que estos son públicos (accesibles desde cualquier archivo).
+
+b) Disponible es un dato de tipo booleano. Su valor puede ser "True" o "False".
+
+c) El método ToString() dentro de una clase sirve para mostrar la información los atributos que se escojan de dicha clase.
